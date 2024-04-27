@@ -1,4 +1,4 @@
-## Getting Started
+## Next JS Blog Application
 
 First, install the dependencies:
 
@@ -11,7 +11,6 @@ pnpm install
 # or
 bun install
 ```
-
 
 run the development server:
 
